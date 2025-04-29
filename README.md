@@ -45,15 +45,15 @@ I’m an AI explorer who loves turning complex problems into elegant solutions �
 ## 🚀 Projects That Spark Joy
 
 ### 🧮 Handwritten Math Solver
-📝 Turn scribbles into solutions using CNNs + SymPy - because math deserves to be decoded beautifully.
+📝 Turn scribbles into solutions using CNNs + SymPy - because math deserves to be decoded beautifully.\
 **Tech**: Google Cloud Vision, OpenCV, SymPy, Gradio
 
 ### 😎 Face Recognition System
-👁️ Built a system that recognizes faces and doesn’t ghost you. It even smiles back (sort of).
+👁️ Built a system that recognizes faces and doesn’t ghost you. It even smiles back (sort of).\
 **Tech**: OpenCV, Deep Learning
 
 ### ✊ Rock Paper Scissors – With a Twist
-🎮 Play a classic game with an AI opponent in a sleek **Streamlit** interface — who says computers can’t have fun?
+🎮 Play a classic game with an AI opponent in a sleek **Streamlit** interface — who says computers can’t have fun?\
 **Tech**: Streamlit, Python, 
 
 > Check out my pinned repos for live demos and code magic!

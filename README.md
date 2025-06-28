@@ -76,6 +76,13 @@ Play a classic game with an AI opponent in a slick **Streamlit** UI.
 
 ---
 
+## 📜 Certifications
+![MATLAB Certified](https://img.shields.io/badge/MATLAB--Onramp-Completed-brightgreen?style=flat-square&logo=mathworks)
+📄 [MATLAB Onramp Certificate (100% Completed)](./matlab certificate.pdf)  
+  *Issued by MathWorks on 28 June 2025*
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -100,4 +107,3 @@ If coding was a Netflix series — I’d binge it in one sitting. 😄
 ---
 
 _Thanks for scrolling this far — you definitely deserve a ⭐ IRL._
-

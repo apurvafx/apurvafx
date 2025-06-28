@@ -77,11 +77,11 @@ Play a classic game with an AI opponent in a slick **Streamlit** UI.
 ---
 
 ## 📜 Certifications
-![MATLAB Certified](https://img.shields.io/badge/MATLAB--Onramp-Completed-brightgreen?style=flat-square&logo=mathworks)
-📄 [MATLAB Onramp Certificate (100% Completed)](./matlab certificate.pdf)  
-  *Issued by MathWorks on 28 June 2025*
 
----
+![MATLAB Certified](https://img.shields.io/badge/MATLAB--Onramp-Completed-brightgreen?style=flat-square&logo=mathworks)  
+📄 [MATLAB Onramp Certificate (100% Completed)](./matlab%20certificate.pdf)  
+*Issued by MathWorks on 28 June 2025*
+
 
 ## 📊 GitHub Stats
 

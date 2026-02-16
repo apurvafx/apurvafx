@@ -1,3 +1,5 @@
+<div align="center">
+
 # ⚡ APURVA SINHA
 
 ```ascii
@@ -7,7 +9,9 @@
 ╚═══════════════════════════════════════════════════════════╝
 ```
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00F7F7&vCenter=true&random=false&width=600&lines=Building+AI+That+Actually+Works;Deep+Learning+%7C+Computer+Vision;Embedded+Systems+%7C+Robotics;Data+Analytics+Enthusiast;Hackathon+Runner-Up)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00F7F7&center=true&vCenter=true&random=false&width=600&lines=Building+AI+That+Actually+Works;Deep+Learning+%7C+Computer+Vision;Embedded+Systems+%7C+Robotics;Data+Analytics+Enthusiast;Hackathon+Runner-Up)](https://git.io/typing-svg)
+
+</div>
 
 <br>
 
@@ -98,7 +102,7 @@ class ApurvaSinha:
 <td width="50%">
 
 ### 📊 Aadhaar Enrolment Insights
-** Data Analytics Platform**
+**1.4B Records | Data Analytics Platform**
 
 Built comprehensive analytics platform analyzing India's Aadhaar enrolment data using **Python**, **Pandas**, and **NumPy**.
 
@@ -203,6 +207,8 @@ Classic game reimagined with AI in a sleek Streamlit interface.
 
 ---
 
+<div align="center">
+
 ## 🏆 ACHIEVEMENTS & MILESTONES
 
 ```
@@ -228,7 +234,11 @@ Classic game reimagined with AI in a sleek Streamlit interface.
 └─────────────────────────────────────────────────────────────┘
 ```
 
+</div>
+
 ---
+
+<div align="center">
 
 ## 📊 GITHUB ANALYTICS
 
@@ -239,22 +249,21 @@ Classic game reimagined with AI in a sleek Streamlit interface.
 <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=apurvafx&theme=react-dark&hide_border=true&bg_color=0D1117&color=00F7F7&line=00F7F7&point=FFFFFF" />
 
 ### 🏅 GitHub Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=apurvafx&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" />
+![](https://github-profile-trophy.vercel.app/?username=apurvafx&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=4)
 
-### 🔥 Contribution Snake
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/apurvafx/apurvafx/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/apurvafx/apurvafx/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/apurvafx/apurvafx/output/github-contribution-grid-snake.svg" />
-</picture>
+</div>
 
 ---
+
+<div align="center">
 
 ## 🌟 CONTRIBUTION STATS
 
 ![](https://komarev.com/ghpvc/?username=apurvafx&color=00F7F7&style=for-the-badge&label=PROFILE+VIEWS)
 ![GitHub followers](https://img.shields.io/github/followers/apurvafx?style=for-the-badge&color=00F7F7)
 ![GitHub stars](https://img.shields.io/github/stars/apurvafx?style=for-the-badge&color=00F7F7)
+
+</div>
 
 ---
 
@@ -305,15 +314,13 @@ mindmap
 
 ---
 
+<div align="center">
+
 ## 📈 CODING ACTIVITY
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=apurvafx&bg_color=0d1117&color=00f7f7&line=00f7f7&point=ffffff&area=true&hide_border=true)
 
-### ⏱️ Recent Activity
-
-<!--RECENT_ACTIVITY:start-->
-<!--RECENT_ACTIVITY:end-->
+</div>
 
 ---
 
@@ -365,13 +372,13 @@ while (alive) {
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/apurva-sinha-/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/apurvafx)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sinhalucky411@gmail.com)
-[![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:connect.prateekrsinha@gmail.com)
+[![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+919580672297)
 
 ### 📬 Let's Collaborate!
 
 ```
-📧 Personal: sinhalucky411@gmail.com
-📧 Professional: connect.prateekrsinha@gmail.com
+📧 Email: sinhalucky411@gmail.com
+📱 Phone: +91-9580672297
 💼 LinkedIn: linkedin.com/in/apurva-sinha-
 🐙 GitHub: github.com/apurvafx
 ```
@@ -385,6 +392,8 @@ while (alive) {
 
 ---
 
+<div align="center">
+
 ## 🎨 FUN ZONE
 
 ### 🎲 Random Dev Quote
@@ -393,8 +402,7 @@ while (alive) {
 ### 😂 Dev Joke of the Day
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=radical&hideBorder)
 
-### 🎵 Spotify Playing
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=00F7F7)](https://open.spotify.com/user/YOUR_SPOTIFY_ID)
+</div>
 
 ---
 
@@ -427,23 +435,7 @@ Good programmers write code that humans can understand."
 — Thomas Fuchs
 ```
 
----
-
-## 🚀 SUPPORT MY WORK
-
-If you find my projects helpful, consider giving them a ⭐!
-
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/apurvafx)
-
-### ⭐ Star my repos if you like what you see!
-
----
-
-### 📊 Visitor Stats
-
-![Visitor Count](https://profile-counter.glitch.me/apurvafx/count.svg)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=72" />
+<div align="center">
 
 ---
 
@@ -457,3 +449,5 @@ If you find my projects helpful, consider giving them a ⭐!
 ```
 
 **⚡ Let's build something amazing together! ⚡**
+
+</div>

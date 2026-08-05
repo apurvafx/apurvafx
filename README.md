@@ -1,25 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0D1117,35:1F1147,70:3B1E8C,100:0D1117&height=230&section=header&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,35:1F1147,70:3B1E8C,100:0D1117&height=230&section=header&text=Apurva%20Sinha&fontSize=56&fontColor=F0F6FC&fontAlignY=35&animation=fadeIn&desc=AI/ML%20Engineer%20%26%20Full-Stack%20Systems%20Architect&descAlignY=58&descSize=18&descColor=A78BFA" width="100%"/>
 
-<table>
-<tr><td align="center">
-
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 90" width="560">
-  <defs>
-    <linearGradient id="nameGrad" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#A78BFA"/>
-      <stop offset="50%" stop-color="#58A6FF"/>
-      <stop offset="100%" stop-color="#22D3EE"/>
-    </linearGradient>
-  </defs>
-  <text x="50%" y="55" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-weight="800" font-size="52" letter-spacing="4" fill="url(#nameGrad)">APURVA SINHA</text>
-</svg>
-
-</td></tr>
-</table>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=700&color=A78BFA&center=true&vCenter=true&width=650&lines=AI%2FML+Engineer+%26+Full-Stack+Systems+Architect;Building+production+RAG+pipelines;Shipping+AI+features+for+eSim+%40+IIT+Bombay;Turning+satellite+frames+into+smooth+video." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=700&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+production+RAG+pipelines;Shipping+AI+features+for+eSim+%40+IIT+Bombay;Turning+satellite+frames+into+smooth+video;Ships+fast.+Communicates+clearly.+Thrives+under+pressure." alt="Typing SVG" />
 
 <br/><br/>
 
@@ -38,81 +21,72 @@
 
 <br/>
 
-## Profile
+## Professional Summary
 
-I am an AI/ML Engineer and Full-Stack Systems Developer. My experience ranges from engineering production AI tools for open-source initiatives to developing high-performance RAG architectures and temporal frame upsampling pipelines. Currently, I am contributing to the **FOSSEE project at IIT Bombay**.
+I am **Apurva Sinha**, a competitive, technically deep AI/ML Engineer with a production internship at IIT Bombay (FOSSEE) — shipping code to systems serving 10,000+ engineers (PR #578). Google Big Code 2026 Top 10% (15,000+ developers), selected for a Google SWE Internship interview (2027). ET GenAI Hackathon Semi-Finalist (65,734 participants). IEEE KodeKurrent Hackathon 2nd Runner-Up (50+ teams). A confident communicator with 6 months of community leadership experience — I ship fast, communicate clearly, and thrive under pressure.
 
 <br/>
 
 ## Key Milestones
 
-<div align="center">
+<table width="100%">
+<tr>
+<td width="4%" align="center"><img src="https://img.shields.io/badge/-1F6FEB?style=flat-square" width="6"/></td>
+<td>
 
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 150" width="100%">
-  <defs>
-    <linearGradient id="cardGrad" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#161B22"/>
-      <stop offset="100%" stop-color="#0D1117"/>
-    </linearGradient>
-    <linearGradient id="accentGrad" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#1F6FEB"/>
-      <stop offset="100%" stop-color="#58A6FF"/>
-    </linearGradient>
-  </defs>
-  <rect width="800" height="150" rx="12" fill="url(#cardGrad)" stroke="#30363D" stroke-width="1"/>
-  <rect x="0" y="0" width="800" height="4" rx="2" fill="url(#accentGrad)"/>
+**Google Big Code 2026 — Top 10%**
+Ranked in the top 10% among 15,000+ developers; selected for a Google SWE Internship interview (2027).
 
-  <!-- Column 1: Trophy icon -->
-  <g transform="translate(35, 30)">
-    <path d="M8 0h14v6a7 7 0 0 1-7 7 7 7 0 0 1-7-7V0z" fill="none" stroke="#58A6FF" stroke-width="1.6"/>
-    <path d="M8 3H2a4 4 0 0 0 4 6" fill="none" stroke="#58A6FF" stroke-width="1.6"/>
-    <path d="M22 3h6a4 4 0 0 1-4 6" fill="none" stroke="#58A6FF" stroke-width="1.6"/>
-    <rect x="12.5" y="13" width="5" height="6" fill="#58A6FF"/>
-    <rect x="8" y="19" width="14" height="3" rx="1.5" fill="#58A6FF"/>
-    <text x="40" y="5" font-family="Segoe UI, sans-serif" font-weight="700" font-size="12" letter-spacing="0.5" fill="#58A6FF">GOOGLE BIG CODE 2026</text>
-    <text x="40" y="34" font-family="Segoe UI, sans-serif" font-weight="800" font-size="26" fill="#F0F6FC">Top 10%</text>
-    <text x="40" y="56" font-family="Segoe UI, sans-serif" font-size="12" fill="#8B949E">SWE Interview Selected</text>
-  </g>
+</td>
+</tr>
+<tr>
+<td align="center"><img src="https://img.shields.io/badge/-1F6FEB?style=flat-square" width="6"/></td>
+<td>
 
-  <line x1="270" y1="25" x2="270" y2="125" stroke="#30363D" stroke-width="1"/>
+**FOSSEE, IIT Bombay — PR #578 Merged**
+Shipped 10+ AI features into eSim core, IIT Bombay's open-source EDA platform serving 10,000+ engineers.
 
-  <!-- Column 2: Pull request icon -->
-  <g transform="translate(300, 30)">
-    <circle cx="4" cy="4" r="3" fill="none" stroke="#58A6FF" stroke-width="1.6"/>
-    <circle cx="4" cy="24" r="3" fill="none" stroke="#58A6FF" stroke-width="1.6"/>
-    <circle cx="22" cy="10" r="3" fill="none" stroke="#58A6FF" stroke-width="1.6"/>
-    <path d="M4 7v14" stroke="#58A6FF" stroke-width="1.6"/>
-    <path d="M4 12c0 5 4 5 9 5h6" fill="none" stroke="#58A6FF" stroke-width="1.6"/>
-    <path d="M22 13v-3" stroke="#58A6FF" stroke-width="1.6"/>
-    <text x="40" y="5" font-family="Segoe UI, sans-serif" font-weight="700" font-size="12" letter-spacing="0.5" fill="#58A6FF">IIT BOMBAY · FOSSEE</text>
-    <text x="40" y="34" font-family="Segoe UI, sans-serif" font-weight="800" font-size="26" fill="#F0F6FC">PR #578</text>
-    <text x="40" y="56" font-family="Segoe UI, sans-serif" font-size="12" fill="#8B949E">Merged into eSim Core</text>
-  </g>
+</td>
+</tr>
+<tr>
+<td align="center"><img src="https://img.shields.io/badge/-1F6FEB?style=flat-square" width="6"/></td>
+<td>
 
-  <line x1="530" y1="25" x2="530" y2="125" stroke="#30363D" stroke-width="1"/>
+**ET GenAI Hackathon — Semi-Finalist**
+Placed among the top teams out of 65,734 registered developers.
 
-  <!-- Column 3: Medal icon -->
-  <g transform="translate(560, 30)">
-    <circle cx="11" cy="9" r="9" fill="none" stroke="#58A6FF" stroke-width="1.6"/>
-    <circle cx="11" cy="9" r="4" fill="none" stroke="#58A6FF" stroke-width="1.4"/>
-    <path d="M6 16l-3 8 5-2 3 4 3-7" fill="none" stroke="#58A6FF" stroke-width="1.6"/>
-    <path d="M16 16l3 8-5-2-3 4-3-7" fill="none" stroke="#58A6FF" stroke-width="1.6"/>
-    <text x="40" y="5" font-family="Segoe UI, sans-serif" font-weight="700" font-size="12" letter-spacing="0.5" fill="#58A6FF">ET GENAI HACKATHON</text>
-    <text x="40" y="34" font-family="Segoe UI, sans-serif" font-weight="800" font-size="26" fill="#F0F6FC">Semi-Finalist</text>
-    <text x="40" y="56" font-family="Segoe UI, sans-serif" font-size="12" fill="#8B949E">Top of 65,734 Developers</text>
-  </g>
-</svg>
+</td>
+</tr>
+<tr>
+<td align="center"><img src="https://img.shields.io/badge/-1F6FEB?style=flat-square" width="6"/></td>
+<td>
 
-</div>
+**IEEE KodeKurrent Hackathon 2026 — 2nd Runner-Up**
+Placed 3rd overall out of 50+ competing teams.
+
+</td>
+</tr>
+</table>
 
 <br/>
 
 ## Experience
 
-| Organization | Role | Period | Key Focus |
-| :--- | :--- | :--- | :--- |
-| **FOSSEE, IIT Bombay** | AI Chatbot Integration Engineer Intern | May 2026 – Present | Shipped 10+ AI features (RAG retrieval, voice input, schematic image analysis, NgSpice netlist parser) in PR #578 for the eSim core platform. |
-| **RGIPT Community Programme** | Community Outreach Intern | Jan 2025 – Jun 2025 | Led weekly field operations, conducted analysis across village communities, and reported insights to faculty panels. |
+### AI Chatbot Integration Engineer Intern — FOSSEE, IIT Bombay
+`May 2026 – Present`
+
+- Contributing to **FOSSEE eSim**, IIT Bombay's open-source EDA platform serving 10,000+ engineers — integrating and validating 10+ AI features including RAG-based retrieval, voice input, schematic image analysis, and NgSpice netlist analysis across Windows and Ubuntu.
+- Created a dedicated tests folder with systematic coverage across 7 chatbot modules, identifying and documenting 8+ security and functional vulnerabilities — directly improving platform reliability for tens of thousands of active users.
+- Developed a standalone chatbot launcher and implemented automatic Ollama startup — reducing contributor onboarding friction to zero manual steps for isolated chatbot testing on Windows.
+- Executed a PyQt5 → PyQt6 enum migration across the frontend layer, resolving 20+ unscoped `AttributeError`s; shipped all changes in **Pull Request #578** — reviewed and merged into the main codebase.
+
+<br/>
+
+### Community Outreach Intern — RGIPT Community Programme
+`Jan 2025 – Jun 2025`
+
+- Led weekly on-site village visits over 6 months, engaging with 100+ residents across multiple community segments — conducting needs assessments and proposing technology-driven solutions to ground-level challenges.
+- Developed stakeholder communication and public-speaking skills by presenting insights to faculty panels and cross-functional teams — building the confident, client-facing communication essential for translating technical AI work into business impact.
 
 <br/>
 

@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,35:1F1147,70:3B1E8C,100:0D1117&height=230&section=header&text=Apurva%20Sinha&fontSize=56&fontColor=F0F6FC&fontAlignY=35&animation=fadeIn&desc=AI/ML%20Engineer%20%26%20Full-Stack%20Systems%20Architect&descAlignY=58&descSize=18&descColor=A78BFA" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:4C1D95,100:0D1117&height=230&section=header&text=Apurva%20Sinha&fontSize=56&fontColor=F0F6FC&fontAlignY=35&animation=fadeIn&desc=AI%20ML%20Engineer%20and%20Full-Stack%20Systems%20Architect&descAlignY=58&descSize=18&descColor=A78BFA" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=700&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+production+RAG+pipelines;Shipping+AI+features+for+eSim+%40+IIT+Bombay;Turning+satellite+frames+into+smooth+video;Ships+fast.+Communicates+clearly.+Thrives+under+pressure." alt="Typing SVG" />
 

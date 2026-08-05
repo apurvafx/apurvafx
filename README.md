@@ -73,7 +73,7 @@ Placed 3rd overall out of 50+ competing teams.
 ## Experience
 
 ### AI Chatbot Integration Engineer Intern — FOSSEE, IIT Bombay
-`May 2026 – Present`
+`May 2026 – July 2026`
 
 - Contributing to **FOSSEE eSim**, IIT Bombay's open-source EDA platform serving 10,000+ engineers — integrating and validating 10+ AI features including RAG-based retrieval, voice input, schematic image analysis, and NgSpice netlist analysis across Windows and Ubuntu.
 - Created a dedicated tests folder with systematic coverage across 7 chatbot modules, identifying and documenting 8+ security and functional vulnerabilities — directly improving platform reliability for tens of thousands of active users.
@@ -304,12 +304,15 @@ An end-to-end handwritten math solver: a CNN + Transformer OCR pipeline reads ha
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=apurvafx&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=8B949E&ring_color=1F6FEB" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=apurvafx&hide_border=true&background=0D1117&stroke=30363D&ring=58A6FF&fire=1F6FEB&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/apurvafx/apurvafx/main/images/userstats-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/apurvafx/apurvafx/main/images/userstats-light.svg" />
+  <img alt="Apurva's GitHub Stats" src="https://raw.githubusercontent.com/apurvafx/apurvafx/main/images/userstats-dark.svg" width="100%" />
+</picture>
 
-<br/>
+<br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=apurvafx&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E&langs_count=8" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=apurvafx&hide_border=true&background=0D1117&stroke=30363D&ring=58A6FF&fire=1F6FEB&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E&currStreakNum=F0F6FC&sideNums=F0F6FC" />
 
 </div>
 
@@ -330,9 +333,9 @@ An end-to-end handwritten math solver: a CNN + Transformer OCR pipeline reads ha
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/apurvafx/apurvafx/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/apurvafx/apurvafx/output/github-snake.svg" />
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/apurvafx/apurvafx/output/github-snake.svg" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/apurvafx/apurvafx/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/apurvafx/apurvafx/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/apurvafx/apurvafx/output/github-contribution-grid-snake.svg" width="100%" />
 </picture>
 
 </div>
@@ -345,7 +348,7 @@ An end-to-end handwritten math solver: a CNN + Transformer OCR pipeline reads ha
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/apurvafx/apurvafx/main/profile-3d-contrib/profile-night-rainbow.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/apurvafx/apurvafx/main/profile-3d-contrib/profile-day-rainbow.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/apurvafx/apurvafx/main/profile-3d-contrib/profile-season.svg" />
   <img alt="3D Contribution Graph" src="https://raw.githubusercontent.com/apurvafx/apurvafx/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
 </picture>
 

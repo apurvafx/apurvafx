@@ -1,0 +1,30 @@
+name: Generate User Stats
+on:
+  schedule:
+    - cron: "0 3 * * *"
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  stats:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v6
+
+      - name: Generate dark stats image
+        uses: cicirello/user-statistician@v1
+        with:
+          image-file: images/userstats-dark.svg
+          colors: dark
+          custom-title: Apurva Sinha's GitHub Stats
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate light stats image
+        uses: cicirello/user-statistician@v1
+        with:
+          image-file: images/userstats-light.svg
+          colors: light
+          custom-title: Apurva Sinha's GitHub Stats
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
